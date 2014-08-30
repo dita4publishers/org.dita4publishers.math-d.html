@@ -1,8 +1,5 @@
-org.dita4publishers.common.xslt
+org.dita4publishers.math-d.html
 ======================
 
-Provides XSLT modules and function libraries appropriate
-for any Open Toolkit transform. Primarily supports the
-D4P map-driven processing framework.
-
-Depends on the org.dita-community-common.xslt plugin <https://github.com/dita-community/org.dita-community.common.xslt>
+Support for using MathML in HTML output.  NOTE: this
+implementation is obsolete with DITA 1.3.

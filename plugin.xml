@@ -7,7 +7,7 @@
   -->
 <plugin id="org.dita4publishers.math-d.html">
   <require plugin="org.dita4publishers.common.html"/> 
-  <require plugin="org.dita4publishers.doctypes"/> 
+  <require plugin="org.dita4publishers.math"/> 
   <feature extension="dita.xsl.xhtml"
       value="xsl/math-d2html.xsl" type="file"/>
       
