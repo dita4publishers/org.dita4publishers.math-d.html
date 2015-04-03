@@ -7,7 +7,6 @@
   -->
 <plugin id="org.dita4publishers.math-d.html">
   <require plugin="org.dita4publishers.common.html"/> 
-  <require plugin="org.dita4publishers.math"/> 
   
   <feature extension="package.support.name" value="Eliot Kimber"/>
   <feature extension="package.support.email" value="ekimber@contrext.com"/>
