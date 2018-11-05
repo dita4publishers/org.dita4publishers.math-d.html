@@ -13,5 +13,7 @@
   
   <feature extension="dita.xsl.xhtml"
       value="xsl/math-d2html.xsl" type="file"/>
-      
+  <feature extension="dita.xsl.html5"
+    value="xsl/math-d2html.xsl" type="file"/>
+  
 </plugin>
