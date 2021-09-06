@@ -80,7 +80,7 @@
     <xsl:apply-templates/>
   </xsl:template>
   
-  <xsl:template match="*[contains(@class, ' mathml-d/mathml_container ')]">
+  <xsl:template match="*[contains(@class, ' mathml-d/mathml ')]">
     <xsl:apply-templates/>
   </xsl:template>
   
